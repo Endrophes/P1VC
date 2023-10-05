@@ -70,3 +70,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Artifacts
+App-Unity/P1VC-Test/Library/Artifacts/*
+App-Unity/P1VC-Test/Library/Bee/*
+
+# Cache
+App-Unity/P1VC-Test/Library/PackageCache/*
+App-Unity/P1VC-Test/Library/ShaderCache/*
+App-Unity/P1VC-Test/Library/StateCache/*
+
+App-Unity/P1VC-Test/Logs/*
+
+App-Unity/P1VC-Test/Temp/*
