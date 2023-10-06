@@ -79,6 +79,7 @@ App-Unity/P1VC-Test/Library/Bee/*
 App-Unity/P1VC-Test/Library/PackageCache/*
 App-Unity/P1VC-Test/Library/ShaderCache/*
 App-Unity/P1VC-Test/Library/StateCache/*
+App-Unity/P1VC-Test/Library/BurstCache/*
 
 App-Unity/P1VC-Test/Logs/*
 
