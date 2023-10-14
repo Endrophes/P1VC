@@ -84,5 +84,6 @@ App-Unity/P1VC-Test/Library/BurstCache/*
 App-Unity/P1VC-Test/Logs/*
 
 App-Unity/P1VC-Test/Temp/*
+
+# Extra auto save file
 *.blend*
-*.blend1
